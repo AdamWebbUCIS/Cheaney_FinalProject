@@ -1,5 +1,4 @@
-'''
-Created on Nov 22, 2022
+from Function.Functions import *
 
-@author: adamw
-'''
+loadHints()
+loadImage()
